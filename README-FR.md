@@ -1,4 +1,5 @@
 # PDF Kiosk iPad — version GitHub Pages (sans Cloudflare)
+#######################################################
 
 Cette version fonctionne uniquement avec **GitHub Pages**.
 
