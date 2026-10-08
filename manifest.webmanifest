@@ -1,0 +1,20 @@
+{
+  "name": "PDF Kiosk Offline",
+  "short_name": "PDF Kiosk",
+  "description": "Lecteur PDF kiosque hors ligne pour iPad",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
